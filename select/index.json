@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Shark",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-29T15:14:17.117516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Pool Shark",
+      "artist": "Dave Dudley",
+      "has_synced": true,
+      "path": "select/01_The_Pool_Shark_Dave_Dudley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shark Dad",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Shark_Dad_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Shark In Jets Clothing",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/03_A_Shark_In_Jets_Clothing_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shark",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/04_Shark_ASH.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shark Food",
+      "artist": "Starsailor",
+      "has_synced": true,
+      "path": "select/05_Shark_Food_Starsailor.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fast as a Shark",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/06_Fast_as_a_Shark_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel The Heat Of The Night - Shark Mix",
+      "artist": "Masterboy",
+      "has_synced": false,
+      "path": "select/07_Feel_The_Heat_Of_The_Night_-_Shark_Mix_Masterboy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Great White Shark",
+      "artist": "Big Thief",
+      "has_synced": true,
+      "path": "select/08_Great_White_Shark_Big_Thief.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shark",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/09_Shark_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shark City (Tropico X)",
+      "artist": "Niki & The Dove",
+      "has_synced": false,
+      "path": "select/10_Shark_City_(Tropico_X)_Niki_&_The_Dove.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shark Smile",
+      "artist": "Big Thief",
+      "has_synced": true,
+      "path": "select/11_Shark_Smile_Big_Thief.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shark",
+      "artist": "Throwing Muses",
+      "has_synced": false,
+      "path": "select/12_Shark_Throwing_Muses.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hammerhead Shark",
+      "artist": "David Lee Roth",
+      "has_synced": true,
+      "path": "select/13_Hammerhead_Shark_David_Lee_Roth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shark Week",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/14_Shark_Week_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Shark In Jets Clothing/I Know But I Don't Know - Live / Medley",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/15_A_Shark_In_Jets_Clothing_I_Know_But_I_Don't_Know_-_Live___Medley_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Shark in Jet's Clothing \u0000 I Know but I Don't Know",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/16_A_Shark_in_Jet's_Clothing_\u0000_I_Know_but_I_Don't_Know_Blondie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shark",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Shark_Oh_Wonder.txt"
+    }
+  ]
+}
